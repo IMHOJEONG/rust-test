@@ -1,0 +1,8 @@
+fn main() {
+
+    let a = 10;
+    println!("a = {:?}",a);
+    let a = 20;
+    println!("a = {:?}", a);
+
+}
